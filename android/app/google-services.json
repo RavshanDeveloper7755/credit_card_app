@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409533574673",
+    "project_id": "credit-card-e1d6c",
+    "storage_bucket": "credit-card-e1d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409533574673:android:c368b4cd7581100f560bb0",
+        "android_client_info": {
+          "package_name": "com.example.credit_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409533574673-juhdonfuqlanuha6tdt9mpke0jrmfvrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sl2pJyd4aM6jOOukP_imv-mswKodIOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409533574673-juhdonfuqlanuha6tdt9mpke0jrmfvrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
